@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=MPX1D1250L330
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=4.1
+Released=2021-08-18 10:14:55
+Downloaded=2025-11-24 09:02:13
+3D=Y

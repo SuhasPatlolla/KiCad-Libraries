@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=MPX1D1250L150
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2019-09-25 09:18:54
+Downloaded=2025-11-24 09:03:26
+3D=Y

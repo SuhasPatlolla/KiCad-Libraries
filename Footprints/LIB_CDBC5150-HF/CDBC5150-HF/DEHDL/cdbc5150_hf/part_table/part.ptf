@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDBC5150_HF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Comchip Technology", "CDBC5150-HF" (!) = "", "DIOM8059X290N", "Diodes Moulded", "750-CDBC5150-HF", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBC5150-HF?qs=XEIV%2Fho1H6foKmZ1W%252B1qRQ%3D%3D", "Schottky Diodes & Rectifiers 150V, 5A", "https://www.mouser.in/datasheet/2/80/CDBC5150_HF_Thru913245__CDBC5200_HF_RevB-2504761.pdf", "2.9 mm"
+END_PART
+
+END.

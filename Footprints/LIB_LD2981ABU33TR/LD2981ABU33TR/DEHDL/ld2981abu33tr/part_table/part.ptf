@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LD2981ABU33TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "LD2981ABU33TR" (!) = "", "LD2981ABU33TR", "Other", "511-LD2981ABU33", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD2981ABU33TR?qs=1OhPZrgumbmBIvYeukN1Rg%3D%3D", "Ultra low-drop voltage regulators with inhibit", "https://www.st.com/resource/en/datasheet/ld2981.pdf", "1.6 mm"
+END_PART
+
+END.

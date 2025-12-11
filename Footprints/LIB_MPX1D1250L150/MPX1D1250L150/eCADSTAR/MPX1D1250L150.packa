@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MPX1D1250L150"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-05-12-16:48:06)
+    (mountForm default
+        (footprintRef "MPX1D1250L150")
+        (spec "System")
+    )
+)

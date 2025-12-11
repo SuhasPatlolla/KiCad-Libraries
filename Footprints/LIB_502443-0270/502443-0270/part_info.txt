@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=502443-0270
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2019-11-19 10:54:21
+Downloaded=2025-12-04 05:08:02
+3D=Y

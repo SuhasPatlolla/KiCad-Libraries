@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CDBC5150-HF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-26-13:11:15)
+    (mountForm default
+        (footprintRef "DIOM8059X290N")
+        (spec "System")
+    )
+)

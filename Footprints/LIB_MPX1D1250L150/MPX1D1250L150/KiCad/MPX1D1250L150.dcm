@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPX1D1250L150
+D KEMET, MPX, Power, 15 uH, 20%, 155C, -55C, 1250(5350), 8.2 A, 30.8 mOhms, 7 MHz, 250, 13.2mm, 13.6mm, 12.5mm, 12.7mm, 5mm, 5mm
+K
+F https://content.kemet.com/datasheets/KEM_L9012_MPX.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_3255277"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-25-09:18:54)
+    (utime 2025-05-12-16:48:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MPX1D1250L150")
+)
+
+
+(pinAssign "ECS_3255277"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-25-09:18:54)
+    (utime 2025-05-12-16:48:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_3255277")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MPX1D1250L150")
+)
+
+
+(part "MPX1D1250L150"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-25-09:18:54)
+    (utime 2025-05-12-16:48:06)
+    (packageRef "MPX1D1250L150")
+    (pinAssignRef "ECS_3255277")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "KEMET, MPX, Power, 15 uH, 20%, 155C, -55C, 1250(5350), 8.2 A, 30.8 mOhms, 7 MHz, 250, 13.2mm, 13.6mm, 12.5mm, 12.7mm, 5mm, 5mm")
+    (property "Mouser_Part_Number" "80-MPX1D1250L150")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/MPX1D1250L150?qs=P1JMDcb91o4lI77BLUwjCw%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "MPX1D1250L150")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_L9012_MPX.pdf")
+    (property "compAreaTopHeight" 5)
+)
+
+

@@ -1,0 +1,18 @@
+.RS6N120BHTB1 :1 ;MOSFET Nch 80V 135A, HSOP8, Power MOSFET: RS6N120BH is a power MOSFET with low-on resistance and high power package, suitable for switching.
+RS6G120BGTB1
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN RS6N120BHTB1
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (RS6N120BHTB1)
+~!Mouser Part Number (755-RS6N120BHTB1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RS6N120BHTB1?qs=3Rah4i%252BhyCGlalqLzF6LJA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://fscdn.rohm.com//en/products/databook/datasheet/discrete/transistor/mosfet/rs6n120bhtb1-e.pdf)
+~!Height (1.1mm)
+~!3D_Model (RS6N120BHTB1)
+RS6N120BHTB1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

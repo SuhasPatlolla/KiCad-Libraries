@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM5013QDDARQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-07-04:30:30)
+    (mountForm default
+        (footprintRef "SOIC127P600X170-9N")
+        (spec "System")
+    )
+)

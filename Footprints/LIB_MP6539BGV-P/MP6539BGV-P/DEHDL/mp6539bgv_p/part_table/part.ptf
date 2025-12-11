@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MP6539BGV_P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Monolithic Power Systems (MPS)", "MP6539BGV-P" (!) = "", "QFN50P400X500X100-29N", "Quad Flat No-Lead", "946-MP6539BGV-P", "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP6539BGV-P?qs=%252B6g0mu59x7LXLktXwsZfUQ%3D%3D", "Motor / Motion / Ignition Controllers & Drivers 100V, Three-Phase BLDC Motor Pre-Driver", "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP6539B/document_id/5051/", "1 mm"
+END_PART
+
+END.

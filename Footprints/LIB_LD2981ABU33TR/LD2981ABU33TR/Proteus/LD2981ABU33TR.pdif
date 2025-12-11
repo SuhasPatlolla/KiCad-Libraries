@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LD2981ABU33TR"
+   (description "Ultra low-drop voltage regulators with inhibit")
+   (family "ANA")
+   (package "LD2981ABU33TR")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/ld2981.pdf")
+   (attribute "Geometry.Height" "1.6mm")
+   (attribute "Mouser Part Number" "511-LD2981ABU33")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD2981ABU33TR?qs=1OhPZrgumbmBIvYeukN1Rg%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "LD2981ABU33TR")
+   (gate
+    (symbol "LD2981ABU33TR")
+    (pin "VOUT" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "VIN" 3 PS)
+    (pin "GND_2" 4 PS)
+   )
+  )
+  (symbol "LD2981ABU33TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LD2981ABU33TR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.25 1.223)
+      (pt 2.25 1.223)
+      (pt 2.25 -1.223)
+      (pt -2.25 -1.223)
+      (pt -2.25 1.223))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.25 3.435)
+      (pt 3.25 3.435)
+      (pt 3.25 -2.92)
+      (pt -3.25 -2.92)
+      (pt -3.25 3.435))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 1.3 1.223)
+      (pt 2.25 1.223)
+      (pt 2.25 -1.21))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.4 1.223)
+      (pt -2.25 1.223)
+      (pt -2.25 -1.223))))
+   (leg 1 (pt -1.500 -1.210) (padstack 0))
+   (leg 2 (pt 0.000 -0.970) (padstack 2))
+   (leg 3 (pt 1.500 -1.210) (padstack 0))
+   (leg 4 (pt 0.000 1.210) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.570 1.400 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 0.650 1.900 0 0 90.000))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 2.000 2.450 0 0 90.000))
+   )
+   (model "LD2981ABU33TR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

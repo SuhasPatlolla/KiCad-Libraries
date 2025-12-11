@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '502443_0270'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "502443-0270" (!) = "", "5024430270", "Other", "538-502443-0270", "https://www.mouser.co.uk/ProductDetail/Molex/502443-0270?qs=NYG%2FSvoKwdGCWyoWfQm9OQ%3D%3D", "2.00mm Pitch CLIK-Mate Wire-to-Board PCB Receptacle, Single Row, Vertical, 02 Circuits", "https://componentsearchengine.com/Datasheets/1/502443-0270.pdf", "7.45 mm"
+END_PART
+
+END.

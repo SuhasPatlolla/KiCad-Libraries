@@ -1,0 +1,16 @@
+.CDBC5150-HF :1 ;Schottky Diodes & Rectifiers 150V, 5A
+DIOM8059X290N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CDBC5150-HF
+~!Mouser Part Number (750-CDBC5150-HF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/CDBC5150-HF?qs=XEIV%2Fho1H6foKmZ1W%252B1qRQ%3D%3D)
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (CDBC5150-HF)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/80/CDBC5150_HF_Thru913245__CDBC5200_HF_RevB-2504761.pdf)
+~!Height (2.9mm)
+~!3D_Model (CDBC5150-HF)
+CDBC5150-HF
+1.1!U 2.1!U 

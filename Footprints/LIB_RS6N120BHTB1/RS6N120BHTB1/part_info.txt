@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=RS6N120BHTB1
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=9
+Version=5.2
+Released=2023-05-20 10:27:09
+Downloaded=2025-11-25 06:52:56
+3D=Y

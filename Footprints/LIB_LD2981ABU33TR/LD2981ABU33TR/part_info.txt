@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LD2981ABU33TR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=3.2
+Released=2015-11-13 10:39:49
+Downloaded=2025-11-27 07:21:15
+3D=Y

@@ -1,0 +1,16 @@
+.CDZVT2R12B :1 ;Zener Diodes Zener Diode
+CDZVT2R20B
+*STM Z
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CDZVT2R12B
+~!Mouser Part Number (755-CDZVT2R12B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/CDZVT2R12B?qs=lrf6x%2Foh5fDhgWCnzFrvQA%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (CDZVT2R12B)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/CDZVT2R12B.pdf)
+~!Height (0.4mm)
+~!3D_Model (CDZVT2R12B)
+CDZVT2R12B
+1.1!U 2.1!U 

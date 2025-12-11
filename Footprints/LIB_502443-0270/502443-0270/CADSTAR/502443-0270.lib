@@ -1,0 +1,17 @@
+.502443-0270 :1 ;2.00mm Pitch CLIK-Mate Wire-to-Board PCB Receptacle, Single Row, Vertical, 02 Circuits
+"5024430270"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=MP1 4=MP2
+*PLB 1="1" 2="2" 3="MP1" 4="MP2"
+*MXP 4
+*DFN 502443-0270
+~!Mouser Part Number (538-502443-0270)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/502443-0270?qs=NYG%2FSvoKwdGCWyoWfQm9OQ%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (502443-0270)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/502443-0270.pdf)
+~!Height (7.45mm)
+~!3D_Model (502443-0270)
+"502443-0270"
+1.1!U 2.1!U 3.1!U 4.1!U 

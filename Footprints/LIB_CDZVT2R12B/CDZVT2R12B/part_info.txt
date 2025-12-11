@@ -1,0 +1,9 @@
+Manufacturer=ROHM Semiconductor
+PartNumber=CDZVT2R12B
+PartCategory=Zener Diode
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2021-10-29 10:48:36
+Downloaded=2025-11-27 07:06:20
+3D=Y

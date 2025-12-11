@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CDZVT2R20B"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CDZVT2R20B")
+        (spec "default")
+    )
+)

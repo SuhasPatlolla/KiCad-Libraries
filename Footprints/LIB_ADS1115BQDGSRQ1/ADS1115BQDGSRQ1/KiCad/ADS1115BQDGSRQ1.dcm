@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1115BQDGSRQ1
+D Automotive 16-Bit 860SPS 4-Ch Delta-Sigma ADC With PGA, Oscillator, VREF, Comparator, and I2C
+K
+F http://www.ti.com/lit/gpn/ads1115-q1
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RS6N120BHTB1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-08-15-11:12:56)
+    (mountForm default
+        (footprintRef "RS6G120BGTB1")
+        (spec "System")
+    )
+)

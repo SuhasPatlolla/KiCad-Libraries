@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDBC5150-HF
+D Schottky Diodes & Rectifiers 150V, 5A
+K
+F https://www.mouser.in/datasheet/2/80/CDBC5150_HF_Thru913245__CDBC5200_HF_RevB-2504761.pdf
+$ENDCMP
+#
+#End Doc Library
