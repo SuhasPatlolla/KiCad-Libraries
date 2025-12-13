@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PA4343_682ANLT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-12-16:21:52)
+    (mountForm default
+        (footprintRef "INDPM135126X650N")
+        (spec "System")
+    )
+)

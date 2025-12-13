@@ -1,0 +1,16 @@
+.SBRT5A50SAF-13 :1 ;Schottky Diodes & Rectifiers 5A TrenchSBR 50Vrrm 5A Io 0.53Vf 150uA
+SODFL5226X110N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SBRT5A50SAF-13
+~!Mouser Part Number (621-SBRT5A50SAF-13)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT5A50SAF-13?qs=dOK1vf2izjuESHm4JAgALw%3D%3D)
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (SBRT5A50SAF-13)
+~!Link Datasheet (https://www.diodes.com/assets/Datasheets/SBRT5A50SAF.pdf)
+~!Height (1.1mm)
+~!3D_Model (SBRT5A50SAF-13)
+SBRT5A50SAF-13
+1.1!U 2.1!U 

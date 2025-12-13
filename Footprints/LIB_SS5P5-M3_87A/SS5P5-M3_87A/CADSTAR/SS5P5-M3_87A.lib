@@ -1,0 +1,16 @@
+.SS5P5-M3_87A :1 ;Schottky Diodes & Rectifiers 5.0 Amp 50 Volt
+SS3P6LM386A
+*STM D
+*NGS
+*PLB 1="A_1" 2="A_2" 3="K"
+*MXP 3
+*DFN SS5P5-M3_87A
+~!Mouser Part Number (625-SS5P5-M3/87A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS5P5-M3-87A?qs=XGzIaZb%2FFYJilkxmXxSjiQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SS5P5-M3/87A)
+~!Link Datasheet (http://www.vishay.com/docs/88988/ss5p6.pdf)
+~!Height (1.2mm)
+~!3D_Model (SS5P5-M3_87A)
+SS5P5-M3_87A
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SS5P5-M3_87A
+#/360721/1387194/2.50/3/4/Schottky Diode
+DEF SS5P5-M3_87A D 0 30 Y Y 1 F N
+F0 "D" 750 300 50 H V L CNN
+F1 "SS5P5-M3_87A" 750 200 50 H V L CNN
+F2 "SS3P6LM386A" 750 100 50 H I L CNN
+F3 "http://www.vishay.com/docs/88988/ss5p6.pdf" 750 0 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers 5.0 Amp 50 Volt" 750 -100 50 H I L CNN "Description"
+F5 "1.2" 750 -200 50 H I L CNN "Height"
+F6 "625-SS5P5-M3/87A" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS5P5-M3-87A?qs=XGzIaZb%2FFYJilkxmXxSjiQ%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SS5P5-M3/87A" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A_1 1 0 -100 200 R 50 50 0 0 P
+X A_2 2 0 0 200 R 50 50 0 0 P
+X K 3 900 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

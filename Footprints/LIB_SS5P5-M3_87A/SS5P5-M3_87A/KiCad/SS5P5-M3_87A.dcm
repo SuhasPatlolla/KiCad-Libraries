@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS5P5-M3_87A
+D Schottky Diodes & Rectifiers 5.0 Amp 50 Volt
+K
+F http://www.vishay.com/docs/88988/ss5p6.pdf
+$ENDCMP
+#
+#End Doc Library

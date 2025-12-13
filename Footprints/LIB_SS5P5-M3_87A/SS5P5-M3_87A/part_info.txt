@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SS5P5-M3/87A
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2019-02-21 15:07:48
+Downloaded=2025-12-13 07:15:21
+3D=Y

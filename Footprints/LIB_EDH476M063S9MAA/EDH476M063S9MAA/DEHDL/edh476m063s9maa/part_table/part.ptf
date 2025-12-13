@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EDH476M063S9MAA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "EDH476M063S9MAA" (!) = "", "CAPAE830X1050N", "Capacitor Al Electrolytic", "80-EDH476M063S9MAA", "https://www.mouser.co.uk/ProductDetail/KEMET/EDH476M063S9MAA?qs=E9QF1UCAUX7jQ3Np5bFu7Q%3D%3D", "Aluminium Electrolytic Capacitors - SMD 63V 47uF 20% AEC-Q200", "https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf", "10.5 mm"
+END_PART
+
+END.

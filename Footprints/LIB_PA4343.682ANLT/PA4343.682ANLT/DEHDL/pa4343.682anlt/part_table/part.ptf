@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PA4343.682ANLT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "PULSE", "PA4343.682ANLT" (!) = "", "INDPM135126X650N", "Inductors Precision Moulded", "673-PA4343.682ANLT", "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/PA4343.682ANLT?qs=chTDxNqvsymdGvgwnDGbsw%3D%3D", "PULSE ELECTRONICS - PA4343.682ANLT - INDUCTOR, SHIELDED, AEC-Q200, 6.8UH, 14A", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-10/182652.pdf", "6.5 mm"
+END_PART
+
+END.

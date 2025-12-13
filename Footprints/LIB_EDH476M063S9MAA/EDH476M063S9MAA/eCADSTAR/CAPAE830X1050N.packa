@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EDH476M063S9MAA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-11-12-11:20:43)
+    (mountForm default
+        (footprintRef "CAPAE830X1050N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EDH476M063S9MAA
+D Aluminium Electrolytic Capacitors - SMD 63V 47uF 20% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf
+$ENDCMP
+#
+#End Doc Library

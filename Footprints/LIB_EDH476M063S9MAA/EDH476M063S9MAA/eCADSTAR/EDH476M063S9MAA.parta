@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1310603"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-11-12-11:20:43)
+    (utime 2025-11-12-11:20:43)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EDH476M063S9MAA")
+)
+
+
+(pinAssign "ECS_1310603"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-11-12-11:20:43)
+    (utime 2025-11-12-11:20:43)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1310603")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EDH476M063S9MAA")
+)
+
+
+(part "EDH476M063S9MAA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-11-12-11:20:43)
+    (utime 2025-11-12-11:20:43)
+    (packageRef "EDH476M063S9MAA")
+    (pinAssignRef "ECS_1310603")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Aluminium Electrolytic Capacitors - SMD 63V 47uF 20% AEC-Q200")
+    (property "Mouser_Part_Number" "80-EDH476M063S9MAA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/EDH476M063S9MAA?qs=E9QF1UCAUX7jQ3Np5bFu7Q%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "EDH476M063S9MAA")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf")
+    (property "compAreaTopHeight" 10.5)
+)
+
+

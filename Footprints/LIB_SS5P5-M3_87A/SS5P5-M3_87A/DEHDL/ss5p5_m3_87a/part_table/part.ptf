@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS5P5_M3_87A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SS5P5-M3/87A" (!) = "", "SS3P6LM386A", "Other", "625-SS5P5-M3/87A", "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS5P5-M3-87A?qs=XGzIaZb%2FFYJilkxmXxSjiQ%3D%3D", "Schottky Diodes & Rectifiers 5.0 Amp 50 Volt", "http://www.vishay.com/docs/88988/ss5p6.pdf", "1.2 mm"
+END_PART
+
+END.

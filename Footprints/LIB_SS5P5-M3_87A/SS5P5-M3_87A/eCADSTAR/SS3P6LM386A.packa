@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS5P5-M3_87A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-10-28-13:52:26)
+    (mountForm default
+        (footprintRef "SS3P6LM386A")
+        (spec "System")
+    )
+)

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1163741"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-21-14:49:28)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SBRT5A50SAF-13")
+)
+
+
+(pinAssign "ECS_1163741"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-21-14:49:28)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1163741")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SBRT5A50SAF-13")
+)
+
+
+(part "SBRT5A50SAF-13"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-21-14:49:28)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SBRT5A50SAF-13")
+    (pinAssignRef "ECS_1163741")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Schottky Diodes & Rectifiers 5A TrenchSBR 50Vrrm 5A Io 0.53Vf 150uA")
+    (property "Mouser_Part_Number" "621-SBRT5A50SAF-13")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT5A50SAF-13?qs=dOK1vf2izjuESHm4JAgALw%3D%3D")
+    (property "Manufacturer_Name" "Diodes Incorporated")
+    (property "Manufacturer_Part_Number" "SBRT5A50SAF-13")
+    (property "Datasheet_Link" "https://www.diodes.com/assets/Datasheets/SBRT5A50SAF.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

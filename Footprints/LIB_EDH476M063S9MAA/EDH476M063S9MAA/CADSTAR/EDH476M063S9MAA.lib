@@ -1,0 +1,16 @@
+.EDH476M063S9MAA :1 ;Aluminium Electrolytic Capacitors - SMD 63V 47uF 20% AEC-Q200
+CAPAE830X1050N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN EDH476M063S9MAA
+~!Mouser Part Number (80-EDH476M063S9MAA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/EDH476M063S9MAA?qs=E9QF1UCAUX7jQ3Np5bFu7Q%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (EDH476M063S9MAA)
+~!Link Datasheet (https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf)
+~!Height (10.5mm)
+~!3D_Model (EDH476M063S9MAA)
+EDH476M063S9MAA
+1.1!U 2.1!U 
